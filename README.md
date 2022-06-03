@@ -1,6 +1,6 @@
-# Project 1 - Flixster Movie App
+# Project 1 - Flixster Movies App
 
-Flixster Movie App shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
+Flixster Movies App shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
 Time spent: 13 hours spent in total
 

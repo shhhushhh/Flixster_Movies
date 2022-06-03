@@ -64,7 +64,7 @@ Fixed Bug: Set vertical movie poster imageview height to 180dp (one of the speci
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Shirley Li
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
